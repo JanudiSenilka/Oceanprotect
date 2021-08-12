@@ -1,0 +1,165 @@
+
+body  {
+  font-family: sans-serif;
+  color: #cccc;
+}
+h1 {
+  font-family: 'Sancreek', cursive;
+  text-align: center;
+  font-size: 120px;
+  color: #001E6C;
+  line-height: 1.5;
+}
+h3 {
+  color: #000000;
+ font-family: "Montserrat";
+
+}
+p{
+  color: #B2B1B9;
+}
+
+#title {
+  background-image: url("/home/kuwi/Documents/Udemy Course (Web development)/Images/ffaf03f6c7bfad3c90f02d5207847793.jpg");
+  padding-bottom: 250px;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+
+#feature {
+    padding-top: 150px;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+.feature-box {
+  text-align: center;
+  padding-top: 8%;
+}
+.icon {
+  color: #ef8172;
+  margin-bottom: 1rem;
+  image-resolution: from-image;
+  width: 80%;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+
+.container-fluid{
+  padding: 3% 15% 7%;
+}
+/* Navigation Bar  */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 12px 18px;
+  color: #000000;
+}
+
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Ubuntu"
+}
+
+
+/* font */
+.janu {
+ text-align: center;
+ font-size: 80px;
+ font-family: 'Goudy Bookletter 1911', serif;
+ color: #001E6C;
+}
+ /* Testimonials */
+
+#author {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/41RAKMUOKdL.jpg);
+  padding-bottom: 150px;
+  padding-top: 4%;
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+.about {
+  text-align: center;
+  text-decoration:none;
+  color: #261C2C;
+  padding-top: 20px;
+  font-size: 60px;
+  font-family: 'Volkhov', serif;
+}
+.toxic {
+  font-size: 30px;
+  text-align: center;
+  color: #334756;
+}
+.paragraph {
+  font-size: 30px;
+  text-align: center;
+  color: #334756;
+}
+/* Press Section */
+
+#press {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+.icon {
+  color: #53B8BB;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #5089C6;
+}
+.theme {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+  background-image: url(https://images-na.ssl-images-amazon.com/images/I/41RAKMUOKdL.jpg);
+  text-align: center;
+  background-color: #;
+  color: #fff;
+}
+.testimonial-image {
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+/* Footer Section */
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.social-icon {
+  margin: 20px 10px;
+  color: #001E6C;
+}
+
+}
+.foot {
+  font-size: 150px;
+}
